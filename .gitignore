@@ -1,0 +1,15 @@
+# 数据集与训练权重
+data/
+checkpoints/
+*.pth
+*.pt
+
+# Python 与 Notebook 临时文件
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 本地环境与密钥配置
+.venv/
+venv/
+.env
